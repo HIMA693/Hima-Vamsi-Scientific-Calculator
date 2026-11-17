@@ -68,3 +68,7 @@ Status: Developed
 ---
 
 ⭐ If you find this project useful, consider giving it a Star!
+
+## 📸 Application Screenshot
+
+![Hima Vamsi Scientific Calculator](Screenshot%202026-11-17%20204353.png)
